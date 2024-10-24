@@ -38,6 +38,9 @@ class Gomoku(TwoPlayerGame):
         """
         Wykonuje ruch, ustawiając symbol gracza na wybranym polu.
 
+        Parameters:
+            move (int):
+
         Returns:
             None
         """
@@ -46,6 +49,9 @@ class Gomoku(TwoPlayerGame):
     def unmake_move(self, move):
         """
         Funkcja EasyAI która pozwala przyspieszyć szybkość AI
+
+        Parameters:
+            move (int):
 
         Returns:
             None
