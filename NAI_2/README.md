@@ -1,6 +1,6 @@
 # Klasyfikator CV 
 
-Aplikacja automatycznie klasyfikuje CV na podstawie umiejętności językowych, poziomu wykształcenia oraz doświadczenia zawodowego. Aplikacja przetwarza pliki PDF, wyodrębnia niezbędne informacje i klasyfikuje kandydatów do kategorii: "niekwalifikowany", "kwalifikowany" lub "priorytetowy". Zawiera również prosty interfejs graficzny (GUI) do obsługi procesu klasyfikacji.
+Aplikacja automatycznie klasyfikuje CV na podstawie umiejętności językowych, poziomu wykształcenia oraz doświadczenia zawodowego,przetwarza pliki PDF, wyodrębnia niezbędne informacje i klasyfikuje kandydatów do kategorii: "niezakwalifikowany", "kwalifikowany" lub "priorytetowy". Zawiera również proste gui do obsługi procesu klasyfikacji.
 
 ## Autorzy
 
