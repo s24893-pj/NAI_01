@@ -1,0 +1,97 @@
+[
+    {"lang": "A1", "edu": "No Degree", "exp": "low", "candidate": "low"},
+    {"lang": "A1", "edu": "No Degree", "exp": "medium", "candidate": "low"},
+    {"lang": "A1", "edu": "No Degree", "exp": "high", "candidate": "medium"},
+
+    {"lang": "A1", "edu": "Bachelor", "exp": "low", "candidate": "low"},
+    {"lang": "A1", "edu": "Bachelor", "exp": "medium", "candidate": "medium"},
+    {"lang": "A1", "edu": "Bachelor", "exp": "high", "candidate": "medium"},
+
+    {"lang": "A1", "edu": "Master", "exp": "low", "candidate": "medium"},
+    {"lang": "A1", "edu": "Master", "exp": "medium", "candidate": "high"},
+    {"lang": "A1", "edu": "Master", "exp": "high", "candidate": "high"},
+
+    {"lang": "A1", "edu": "PhD", "exp": "low", "candidate": "high"},
+    {"lang": "A1", "edu": "PhD", "exp": "medium", "candidate": "high"},
+    {"lang": "A1", "edu": "PhD", "exp": "high", "candidate": "high"},
+
+    {"lang": "A2", "edu": "No Degree", "exp": "low", "candidate": "low"},
+    {"lang": "A2", "edu": "No Degree", "exp": "medium", "candidate": "low"},
+    {"lang": "A2", "edu": "No Degree", "exp": "high", "candidate": "medium"},
+
+    {"lang": "A2", "edu": "Bachelor", "exp": "low", "candidate": "medium"},
+    {"lang": "A2", "edu": "Bachelor", "exp": "medium", "candidate": "medium"},
+    {"lang": "A2", "edu": "Bachelor", "exp": "high", "candidate": "high"},
+
+    {"lang": "A2", "edu": "Master", "exp": "low", "candidate": "medium"},
+    {"lang": "A2", "edu": "Master", "exp": "medium", "candidate": "high"},
+    {"lang": "A2", "edu": "Master", "exp": "high", "candidate": "high"},
+
+    {"lang": "A2", "edu": "PhD", "exp": "low", "candidate": "high"},
+    {"lang": "A2", "edu": "PhD", "exp": "medium", "candidate": "high"},
+    {"lang": "A2", "edu": "PhD", "exp": "high", "candidate": "high"},
+
+    {"lang": "B1", "edu": "No Degree", "exp": "low", "candidate": "low"},
+    {"lang": "B1", "edu": "No Degree", "exp": "medium", "candidate": "low"},
+    {"lang": "B1", "edu": "No Degree", "exp": "high", "candidate": "medium"},
+
+    {"lang": "B1", "edu": "Bachelor", "exp": "low", "candidate": "medium"},
+    {"lang": "B1", "edu": "Bachelor", "exp": "medium", "candidate": "medium"},
+    {"lang": "B1", "edu": "Bachelor", "exp": "high", "candidate": "high"},
+
+    {"lang": "B1", "edu": "Master", "exp": "low", "candidate": "medium"},
+    {"lang": "B1", "edu": "Master", "exp": "medium", "candidate": "high"},
+    {"lang": "B1", "edu": "Master", "exp": "high", "candidate": "high"},
+
+    {"lang": "B1", "edu": "PhD", "exp": "low", "candidate": "high"},
+    {"lang": "B1", "edu": "PhD", "exp": "medium", "candidate": "high"},
+    {"lang": "B1", "edu": "PhD", "exp": "high", "candidate": "high"},
+
+    {"lang": "B2", "edu": "No Degree", "exp": "low", "candidate": "medium"},
+    {"lang": "B2", "edu": "No Degree", "exp": "medium", "candidate": "medium"},
+    {"lang": "B2", "edu": "No Degree", "exp": "high", "candidate": "high"},
+
+    {"lang": "B2", "edu": "Bachelor", "exp": "low", "candidate": "medium"},
+    {"lang": "B2", "edu": "Bachelor", "exp": "medium", "candidate": "high"},
+    {"lang": "B2", "edu": "Bachelor", "exp": "high", "candidate": "high"},
+
+    {"lang": "B2", "edu": "Master", "exp": "low", "candidate": "high"},
+    {"lang": "B2", "edu": "Master", "exp": "medium", "candidate": "high"},
+    {"lang": "B2", "edu": "Master", "exp": "high", "candidate": "high"},
+
+    {"lang": "B2", "edu": "PhD", "exp": "low", "candidate": "high"},
+    {"lang": "B2", "edu": "PhD", "exp": "medium", "candidate": "high"},
+    {"lang": "B2", "edu": "PhD", "exp": "high", "candidate": "high"},
+
+    {"lang": "C1", "edu": "No Degree", "exp": "low", "candidate": "medium"},
+    {"lang": "C1", "edu": "No Degree", "exp": "medium", "candidate": "high"},
+    {"lang": "C1", "edu": "No Degree", "exp": "high", "candidate": "high"},
+
+    {"lang": "C1", "edu": "Bachelor", "exp": "low", "candidate": "high"},
+    {"lang": "C1", "edu": "Bachelor", "exp": "medium", "candidate": "high"},
+    {"lang": "C1", "edu": "Bachelor", "exp": "high", "candidate": "high"},
+
+    {"lang": "C1", "edu": "Master", "exp": "low", "candidate": "high"},
+    {"lang": "C1", "edu": "Master", "exp": "medium", "candidate": "high"},
+    {"lang": "C1", "edu": "Master", "exp": "high", "candidate": "high"},
+
+    {"lang": "C1", "edu": "PhD", "exp": "low", "candidate": "high"},
+    {"lang": "C1", "edu": "PhD", "exp": "medium", "candidate": "high"},
+    {"lang": "C1", "edu": "PhD", "exp": "high", "candidate": "high"},
+
+    {"lang": "C2", "edu": "No Degree", "exp": "low", "candidate": "high"},
+    {"lang": "C2", "edu": "No Degree", "exp": "medium", "candidate": "high"},
+    {"lang": "C2", "edu": "No Degree", "exp": "high", "candidate": "high"},
+
+    {"lang": "C2", "edu": "Bachelor", "exp": "low", "candidate": "high"},
+    {"lang": "C2", "edu": "Bachelor", "exp": "medium", "candidate": "high"},
+    {"lang": "C2", "edu": "Bachelor", "exp": "high", "candidate": "high"},
+
+    {"lang": "C2", "edu": "Master", "exp": "low", "candidate": "high"},
+    {"lang": "C2", "edu": "Master", "exp": "medium", "candidate": "high"},
+    {"lang": "C2", "edu": "Master", "exp": "high", "candidate": "high"},
+
+    {"lang": "C2", "edu": "PhD", "exp": "low", "candidate": "high"},
+    {"lang": "C2", "edu": "PhD", "exp": "medium", "candidate": "high"},
+    {"lang": "C2", "edu": "PhD", "exp": "high", "candidate": "high"}
+]
