@@ -28,5 +28,8 @@ pip install pdfplumber
 
 ## Nagranie z działania aplikacji
 
-https://github.com/user-attachments/assets/24cb14ff-4066-412c-9cf3-420445bade8b
+
+
+
+https://github.com/user-attachments/assets/dc4941fd-15f1-49bf-a41e-ae0c3d8290a8
 
