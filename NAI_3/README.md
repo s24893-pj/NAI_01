@@ -30,3 +30,15 @@ pip install pandas
 pip install scikit-learn
 pip install rich
 ```
+
+## Instrukcja uruchomienia
+Aby uruchomić grę, otwórz terminal (CMD) i wykonaj poniższe polecenie:
+```bash
+print_user_recomendations.py
+```
+
+## Zrzuty ekranu
+
+Poniżej znajdują się zrzuty ekranu z działania programu:
+
+
