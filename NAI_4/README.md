@@ -46,7 +46,7 @@ NAI_04_2.py
 ```
 
 ## Zrzuty ekranu
-### Dane wejściowe wraz z poprawnym wynikiem znajdują się w pliku [Dane z porawnymi wynikami](dane_do_predykcji.txt)
+### Dane wejściowe wraz z poprawnym wynikiem znajdują się w pliku [Dane z poprawnymi wynikami](dane_do_predykcji.txt)
 
 Poniżej znajdują się zrzuty ekranu z działania programu:
 
