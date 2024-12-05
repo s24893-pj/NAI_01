@@ -41,4 +41,12 @@ print_user_recomendations.py
 
 Poniżej znajdują się zrzuty ekranu z działania programu:
 
+### Zrzut ekranu 1
+![Zrzut ekranu 1](Screenshots/PC.png)
+
+### Zrzut ekranu 2
+![Zrzut ekranu 2](Screenshots/MW.png)
+
+### Zrzut ekranu 3
+![Zrzut ekranu 3](Screenshots/DJ.png)
 
