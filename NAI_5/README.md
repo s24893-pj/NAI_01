@@ -64,7 +64,7 @@ NAI_05_3.py
 ```
 
 ## Zrzuty ekranu
-### Dane wejściowe wraz z poprawnym wynikiem do zadania 1 znajdują się w pliku [Dane z poprawnymi wynikami](dane_do_predykcji.txt)
+### Dane wejściowe wraz z poprawnym wynikiem do zadania 1 znajdują się w pliku [Dane z poprawnymi wynikami](dane_do_predykcji_05_1.txt)
 
 Poniżej znajdują się zrzuty ekranu z działania programów:
 
