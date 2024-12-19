@@ -82,6 +82,6 @@ translator = GoogleTranslator(source='en', target='pl')
 
 # Tłumaczenie, wypisanie danych oraz pokazanie przewidywanego obrazu
 translated_predicted_label = translator.translate(predicted_label)
-print(f"na obrazie znajduje się {translated_predicted_label}")
+print(f"\nna obrazie znajduje się {translated_predicted_label}")
 plt.imshow(X_test[5])
 plt.show()

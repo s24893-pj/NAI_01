@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 from deep_translator import GoogleTranslator
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
 
 # Wczytanie danych
 (X_train, y_train), (X_test, y_test) = datasets.fashion_mnist.load_data()
@@ -74,3 +76,17 @@ translated_predicted_label = translator.translate(predicted_label)
 print(f"\nNa obrazie znajduje się: {translated_predicted_label}")
 plt.imshow(X_test[:14][13])
 plt.show()
+
+
+# Tworzymy i wizualizujemy "Confussion matrix"
+predictions = fashion_model.predict(X_test)
+predicted_labels = np.argmax(predictions, axis=1)
+cm = confusion_matrix(y_test, predicted_labels)
+
+plt.figure(figsize=(10, 10))
+sns.heatmap(cm, annot=True, fmt="d", cmap="Blues", xticklabels=labels, yticklabels=labels)
+plt.xlabel("Predicted Label")
+plt.ylabel("True Label")
+plt.title("Confusion Matrix")
+plt.show()
+
