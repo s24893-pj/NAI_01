@@ -13,7 +13,7 @@ Trzeci program realizuje klasyfikację obrazów ubrań ze zbioru danych Fashion-
 Programy również korzystają z biblioteki deep_translator do automatycznego tłumaczenie przewidywań
 
 Programy 2 oraz 3 zapisują oraz wczytują modele sieci neuronowej z powodu długiego czasu kompilacji i wysokiego obciążenia procesora
-![Zrzut ekranu 0](NAI_scr/scr1.png)
+![Zrzut ekranu 0](NAI_scr/procesor.jpg)
 
 ## Autorzy
 
