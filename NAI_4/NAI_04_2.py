@@ -72,7 +72,7 @@ plt.show()
 
 """
 Utworzenie listy danych dla procesu przewidywania przez algorytm klasyfikacji
-Klasyfikacja danych na drzewa decyzyjnego i SVM
+Klasyfikacja danych na podstawie drzewa decyzyjnego i SVM
 """
 example_data = np.array([[20.13, 28.25, 131.2, 1261, 0.0978, 0.1034, 0.144, 0.09791, 0.1752, 0.05533, 0.7655, 2.463,
                           5.203, 99.04, 0.005769, 0.02423, 0.0395, 0.01678, 0.01898, 0.002498, 23.69, 38.25, 155, 1731,
