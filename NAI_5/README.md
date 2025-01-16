@@ -13,7 +13,7 @@ Trzeci program realizuje klasyfikację obrazów ubrań ze zbioru danych Fashion-
 Programy również korzystają z biblioteki deep_translator do automatycznego tłumaczenie przewidywań
 
 Programy 2 oraz 3 zapisują oraz wczytują modele sieci neuronowej z powodu długiego czasu kompilacji i wysokiego obciążenia procesora
-![Zrzut ekranu 0](NAI_scr/scr1.png)
+![Zrzut ekranu 0](NAI_scr/procesor.jpg)
 
 ## Autorzy
 
@@ -64,29 +64,33 @@ NAI_05_3.py
 ```
 
 ## Zrzuty ekranu
-### Dane wejściowe wraz z poprawnym wynikiem do zadania 1 znajdują się w pliku [Dane z poprawnymi wynikami](dane_do_predykcji.txt)
+### Dane wejściowe wraz z poprawnym wynikiem do zadania 1 znajdują się w pliku [Dane z poprawnymi wynikami](dane_do_predykcji_05_1.txt)
 
 Poniżej znajdują się zrzuty ekranu z działania programów:
 
 ### Zadanie 1
-
-![Zrzut ekranu 1](NAI_scr/scr1.png)
 #### Dokładność sieci neuronowej na zbiorze testowym i walidacyjnym: 0.8608, 0.7696
-![Zrzut ekranu 2](NAI_scr/scr1_2.png)
+![Zrzut ekranu 1](NAI_scr/scr1.png)
+
 #### Dokładność drzewa decyzyjnego
-![Zrzut ekranu 3](NAI_scr/scr1_3.png)
+![Zrzut ekranu 2](NAI_scr/scr1_2.png)
+
 #### Dokładność SVM 
+![Zrzut ekranu 3](NAI_scr/scr1_3.png)
 
 ### Zadanie 2
 
-![Zrzut ekranu 4](NAI_scr/scr2.png)
 #### efekt predykcji sieci neuronowej dla zbioru CIFAR-10
-![Zrzut ekranu 5](NAI_scr/scr2_2.png)
+![Zrzut ekranu 4](NAI_scr/scr2.png)
+
 #### Porównanie dwóch sieci neurnowych o różnej wielkości
+![Zrzut ekranu 5](NAI_scr/scr2_2.png)
 
 ### Zadanie 3
 
-![Zrzut ekranu 6](NAI_scr/scr3.png)
 #### efekt predykcji sieci neuronowej dla zbioru Fashion MNIST
-![Zrzut ekranu 7](NAI_scr/scr3_2.png)
+![Zrzut ekranu 6](NAI_scr/scr3.png)
+
 #### Confusion Matrix dla zbioru Fashion MNIST
+![Zrzut ekranu 7](NAI_scr/scr3_2.png)
+
