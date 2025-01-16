@@ -33,5 +33,5 @@ NAI06.py
 ## Nagranie
 
 #### Nagranie działania programu
-![Nagranie](recordings/2025-01-16 21-18-09.mkv)
+![Nagranie](recordings/nagranie.mkv)
 
