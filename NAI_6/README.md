@@ -33,5 +33,7 @@ NAI06.py
 ## Nagranie
 
 #### Nagranie działania programu
-![Nagranie](recordings/nagranie.mkv)
+
+https://github.com/user-attachments/assets/a505be28-856d-42ce-83c1-589ebd7c41eb
+
 
